@@ -1,6 +1,5 @@
 # CampsiteCommanderApp
-The app is fully functional
-picture of the homescreen page
+
 <img width="403" height="691" alt="Home screen" src="https://github.com/user-attachments/assets/0255e126-3de4-4cbb-a99a-d46befb43e28" />
 
 picture of the input field
