@@ -20,6 +20,7 @@ picture of the output page
 picture of the navigation buttons
 
 
+<img width="161" height="56" alt="image" src="https://github.com/user-attachments/assets/8cc77e8f-793b-4cc6-b3a3-bf0713c78885" />
 
 <img width="344" height="78" alt="image" src="https://github.com/user-attachments/assets/b80bd5d2-6b4c-4184-a6ed-fe73023595db" />
 
